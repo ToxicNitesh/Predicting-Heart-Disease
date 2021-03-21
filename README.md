@@ -1,4 +1,4 @@
-# Predicting-Heart-Disease
+# Predicting-Heart-Attack
 
 Project demonstration Link : https://drive.google.com/file/d/1WXLKS7lV8UwaDC5kD2v8E3uVYob1pPOF/view?usp=sharing
 
